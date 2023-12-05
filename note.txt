@@ -1,0 +1,4 @@
+npm init -y
+npm i express mongoose cors morgan dotenv
+npm i nodemon ts-node -D
+tsc --init (create file tsconfig.json) and uncomment 'outDir'
